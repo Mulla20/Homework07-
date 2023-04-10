@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 "HELLO THERE CSCI-C151"
 This is line 1
+=======
+This is line 1 
+>>>>>>> 84911024a85ee73d797abe28e7173fc721491d9b
 This is another line 
 One is another lien 
 two 
